@@ -1,0 +1,20 @@
+﻿  AP16DB_TRF1_FLopesSBalduino.cpp
+C:\Users\f\Desktop\AP16DB_TRF1_FLopesSBalduino\AP16DB_TRF1_FLopesSBalduino\AP16DB_TRF1_FLopesSBalduino.cpp(201,1): error C2601: 'vendabilhete': local function definitions are illegal
+C:\Users\f\Desktop\AP16DB_TRF1_FLopesSBalduino\AP16DB_TRF1_FLopesSBalduino\AP16DB_TRF1_FLopesSBalduino.cpp(100): message : this line contains a '{' which has not yet been matched
+C:\Users\f\Desktop\AP16DB_TRF1_FLopesSBalduino\AP16DB_TRF1_FLopesSBalduino\AP16DB_TRF1_FLopesSBalduino.cpp(481,1): error C2601: 'carruagemc1': local function definitions are illegal
+C:\Users\f\Desktop\AP16DB_TRF1_FLopesSBalduino\AP16DB_TRF1_FLopesSBalduino\AP16DB_TRF1_FLopesSBalduino.cpp(100): message : this line contains a '{' which has not yet been matched
+C:\Users\f\Desktop\AP16DB_TRF1_FLopesSBalduino\AP16DB_TRF1_FLopesSBalduino\AP16DB_TRF1_FLopesSBalduino.cpp(591,1): error C2601: 'carruagemc2': local function definitions are illegal
+C:\Users\f\Desktop\AP16DB_TRF1_FLopesSBalduino\AP16DB_TRF1_FLopesSBalduino\AP16DB_TRF1_FLopesSBalduino.cpp(100): message : this line contains a '{' which has not yet been matched
+C:\Users\f\Desktop\AP16DB_TRF1_FLopesSBalduino\AP16DB_TRF1_FLopesSBalduino\AP16DB_TRF1_FLopesSBalduino.cpp(703,1): error C2601: 'estatisticasc1': local function definitions are illegal
+C:\Users\f\Desktop\AP16DB_TRF1_FLopesSBalduino\AP16DB_TRF1_FLopesSBalduino\AP16DB_TRF1_FLopesSBalduino.cpp(100): message : this line contains a '{' which has not yet been matched
+C:\Users\f\Desktop\AP16DB_TRF1_FLopesSBalduino\AP16DB_TRF1_FLopesSBalduino\AP16DB_TRF1_FLopesSBalduino.cpp(745,1): error C2601: 'estatisticasc2': local function definitions are illegal
+C:\Users\f\Desktop\AP16DB_TRF1_FLopesSBalduino\AP16DB_TRF1_FLopesSBalduino\AP16DB_TRF1_FLopesSBalduino.cpp(100): message : this line contains a '{' which has not yet been matched
+C:\Users\f\Desktop\AP16DB_TRF1_FLopesSBalduino\AP16DB_TRF1_FLopesSBalduino\AP16DB_TRF1_FLopesSBalduino.cpp(786,1): error C2601: 'normal': local function definitions are illegal
+C:\Users\f\Desktop\AP16DB_TRF1_FLopesSBalduino\AP16DB_TRF1_FLopesSBalduino\AP16DB_TRF1_FLopesSBalduino.cpp(100): message : this line contains a '{' which has not yet been matched
+C:\Users\f\Desktop\AP16DB_TRF1_FLopesSBalduino\AP16DB_TRF1_FLopesSBalduino\AP16DB_TRF1_FLopesSBalduino.cpp(792,1): error C2601: 'cyan': local function definitions are illegal
+C:\Users\f\Desktop\AP16DB_TRF1_FLopesSBalduino\AP16DB_TRF1_FLopesSBalduino\AP16DB_TRF1_FLopesSBalduino.cpp(100): message : this line contains a '{' which has not yet been matched
+C:\Users\f\Desktop\AP16DB_TRF1_FLopesSBalduino\AP16DB_TRF1_FLopesSBalduino\AP16DB_TRF1_FLopesSBalduino.cpp(798,1): error C2601: 'vermelho': local function definitions are illegal
+C:\Users\f\Desktop\AP16DB_TRF1_FLopesSBalduino\AP16DB_TRF1_FLopesSBalduino\AP16DB_TRF1_FLopesSBalduino.cpp(100): message : this line contains a '{' which has not yet been matched
+C:\Users\f\Desktop\AP16DB_TRF1_FLopesSBalduino\AP16DB_TRF1_FLopesSBalduino\AP16DB_TRF1_FLopesSBalduino.cpp(804,1): error C2601: 'branco': local function definitions are illegal
+C:\Users\f\Desktop\AP16DB_TRF1_FLopesSBalduino\AP16DB_TRF1_FLopesSBalduino\AP16DB_TRF1_FLopesSBalduino.cpp(100): message : this line contains a '{' which has not yet been matched
+C:\Users\f\Desktop\AP16DB_TRF1_FLopesSBalduino\AP16DB_TRF1_FLopesSBalduino\AP16DB_TRF1_FLopesSBalduino.cpp(100): fatal error C1075: '{': no matching token found
