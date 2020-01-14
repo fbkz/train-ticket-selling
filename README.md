@@ -13,7 +13,7 @@ The application will also need to visually represent the carriages, its occupati
 </p>
 
 
-<h2 align="center"> Menu </h3>
+<h2 align="center"> Statistics of revenue and tickets sold </h3>
 <p align="center">
 
   <img alt="statistics image of the application" src="https://github.com/fbkz/train-ticket-selling/blob/master/statistics.png">
